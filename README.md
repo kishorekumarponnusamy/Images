@@ -12,3 +12,10 @@ This repo serves as an image hosting resource for the shared task website.
 Images are organized by language for easy reference by participants.
 
 ---
+## 📁 Structure
+```
+H-T_Meme_Website/
+├── English/       # English meme examples
+├── Hindi/         # Hindi meme examples
+└── Chinese/       # Chinese meme examples
+```
